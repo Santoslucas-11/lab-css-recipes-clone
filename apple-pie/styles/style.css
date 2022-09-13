@@ -1,0 +1,32 @@
+.applepie {
+background-image: url("../images/apple-pie.jpg");
+background-position: 0 0;
+background-size: cover;
+background-repeat: no-repeat;
+height: 200px;
+padding-top: 100px;
+position: relative;
+background-size: 100%;
+text-align: center;
+color: white;
+
+  }
+
+  .Recipe-info{
+    
+    font-size: 4.2em;
+  text-align: center;
+  line-height: 1em;
+ 
+  }
+
+  .cooking-info{
+    font-size: 4.2em;
+    text-align: center;
+    line-height: 1em;
+  }
+
+  body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+  }
